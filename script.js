@@ -1,0 +1,10 @@
+const box = document.getElementById('container');
+box.innerText = "Hello, I'm a div!"
+box.style.backgroundColor = "yellow"
+box.style.color = "blue"
+box.style.margin = "20px"
+box.style.padding = "10px"
+box.style.fontSize= "18px"
+box.style.fontWeight= "bold"
+box.style.width= "300px"
+box.style.height= "200px"
