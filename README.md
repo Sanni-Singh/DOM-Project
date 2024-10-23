@@ -1,5 +1,5 @@
 # Basic JavaScript DOM Manipulation Project
-[Live Link here](https://yashsainani.github.io/basic-DOM-manipulation/)
+[Live Link here](https://sanni-singh.github.io/DOM-Project/)
 
 ## Overview
 
